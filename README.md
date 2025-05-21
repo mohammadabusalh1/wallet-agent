@@ -21,7 +21,7 @@ A powerful WhatsApp chatbot that lets users create a wallet, view balances, send
 
 | Layer      | Tech                                                   |
 | ---------- | ------------------------------------------------------ |
-| Messaging  | [Twilio WhatsApp API](https://www.twilio.com/whatsapp) |
+| BOT        | [WhatsApp bot framework](https://github.com/pedroslopez/whatsapp-web.js) |
 | Wallet SDK | [@getpara](https://docs.getpara.com/)                  |
 | Backend    | Node.js + Express                                      |
 | Database   | MongoDB                                                |
